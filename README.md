@@ -2,15 +2,15 @@
 
 ## ÉTAPE 1
 
-|     Code	                                                  | Titre du cours                               | Commentaires           |
-|:------------------------------------------------------------|:-------------------------------------------- |:-----------------------| 
-| FRA1005	                                                    | Français I                                   |                        |
-| ENG1010	                                                    | Prep. English for Professional Communication |                        |
-| MAT1018	                                                    | Mathématiques informatiques                  |                        |
-| INF1035	                                                    | Logiciels d'applications                     |                        |
-| INF1039	                                                    | Introduction aux algorithmes                 |                        |
-| INF1040	                                                    | Introduction à la réseautique                |                        |
-| INF1074	                                                    | Systèmes d'exploitation et ordinateurs       |                        |
+|     Code	                                                  | Titre du cours                               | Commentaires              |
+|:------------------------------------------------------------|:-------------------------------------------- |:--------------------------| 
+| FRA1005	                                                    | Français I                                   |                           |
+| ENG1010	                                                    | Prep. English for Professional Communication |                           |
+| MAT1018	                                                    | Mathématiques informatiques                  |                           |
+| INF1035	                                                    | Logiciels d'applications                     |                           |
+| INF1039	                                                    | Introduction aux algorithmes                 |                           |
+| INF1040	                                                    | Introduction à la réseautique                |                           |
+| INF1074	                                                    | Systèmes d'exploitation et ordinateurs       |                           |
 
 ## ÉTAPE 3
 
