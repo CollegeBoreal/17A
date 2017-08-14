@@ -1,21 +1,20 @@
 # Automne 2017
 
-
 ## ÉTAPE 1
 
-|     Code	                                              | Titre du cours                              |  Commentaires              |
+|     Code	                                                  | Titre du cours                              |  Commentaires              |
 |:-----------------------------------------------------------:|:--------------------------------------------|:---------------------------| 
-[ FRA1005	Français I
-[ ENG1010	Preparatory English for Professional Communication
-[ MAT1018	Mathématiques informatiques
-[ INF1035	Logiciels d'applications
-[ INF1039	Introduction aux algorithmes
-[ INF1040	Introduction à la réseautique
-[ INF1074	Systèmes d'exploitation et ordinateurs
+| FRA1005	Français I                                          |                                             |                            |
+| ENG1010	Preparatory English for Professional Communication  |                                             |                            |
+| MAT1018	Mathématiques informatiques                         |                                             |                            |
+| INF1035	Logiciels d'applications                            |                                             |                            |
+| INF1039	Introduction aux algorithmes                        |                                             |                            |
+| INF1040	Introduction à la réseautique                       |                                             |                            |
+| INF1074	Systèmes d'exploitation et ordinateurs              |                                             |                            |
 
 ## ÉTAPE 3
 
-|     Code	                                              | Titre du cours                              |  Commentaires              |
+|     Code	                                                  | Titre du cours                              |  Commentaires              |
 |:-----------------------------------------------------------:|:--------------------------------------------|:---------------------------| 
 | [INF1006-17A](https://github.com/CollegeBoreal/INF1006-17A) |	Système de gestion de bases de données      |                            |
 | INF1018                                                     | Formation aux usagers                       |                            |
