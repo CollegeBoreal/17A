@@ -16,11 +16,11 @@
 
 |     Code	                                                  | Titre du cours                              |  Commentaires              |
 |:------------------------------------------------------------|:--------------------------------------------|:---------------------------| 
-| [INF1006-17A](https://github.com/CollegeBoreal/INF1006-17A) |	Système de gestion de bases de données      |                            |
+| [INF1006](https://github.com/CollegeBoreal/INF1006-17A)     |	Système de gestion de bases de données      |                            |
 | INF1018                                                     | Formation aux usagers                       |                            |
-| INF1023-17A                                                 | Réseaux locaux et à distance                |                            |
-| [INF1044-17A](https://github.com/CollegeBoreal/INF1044-17A) | Logiciels de développement                  |                            |
-| [INF1045-17A](https://github.com/CollegeBoreal/INF1045-17A) | Administration des serveurs                 |                            |
+| INF1023                                                     | Réseaux locaux et à distance                |                            |
+| [INF1044](https://github.com/CollegeBoreal/INF1044-17A)     | Logiciels de développement                  |                            |
+| [INF1045](https://github.com/CollegeBoreal/INF1045-17A)     | Administration des serveurs                 |                            |
 | INF1046                                                     | Développement d'applications multimédia     |                            |
-| [INF1048-17A](https://github.com/CollegeBoreal/INF1048-17A) | Programmation et scripts                    |                            |
+| [INF1048](https://github.com/CollegeBoreal/INF1048-17A)     | Programmation et scripts                    |                            |
 
