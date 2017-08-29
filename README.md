@@ -22,5 +22,5 @@
 | [INF1044](https://github.com/CollegeBoreal/INF1044-201-17A-02) | Logiciels de développement                   |  (CM)                  |
 | [INF1045](https://github.com/CollegeBoreal/INF1045-17A)        | Administration des serveurs                  |  (BR)                  |
 | INF1046                                                        | Développement d'applications multimédia      |  (CS)                  |
-| [INF1048](https://github.com/CollegeBoreal/INF1048-17A)        | Programmation et scripts                     |  (BR)                  |
+| [INF1048](https://github.com/CollegeBoreal/INF1048-201-17A-02) | Programmation et scripts                     |  (BR)                  |
 
