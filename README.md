@@ -19,7 +19,7 @@
 | [INF1006](https://github.com/CollegeBoreal/INF1006-201-17A-02) |	Système de gestion de bases de données      |  (HM)                  |
 | INF1018                                                        | Formation aux usagers                        |  (M.)                  |
 | INF1023                                                        | Réseaux locaux et à distance                 |  (RE)                  |
-| [INF1044](https://github.com/CollegeBoreal/INF1044-17A)        | Logiciels de développement                   |  (SS)                  |
+| [INF1044](https://github.com/CollegeBoreal/INF1044-201-17A-02) | Logiciels de développement                   |  (CM)                  |
 | [INF1045](https://github.com/CollegeBoreal/INF1045-17A)        | Administration des serveurs                  |  (BR)                  |
 | INF1046                                                        | Développement d'applications multimédia      |  (CS)                  |
 | [INF1048](https://github.com/CollegeBoreal/INF1048-17A)        | Programmation et scripts                     |  (BR)                  |
