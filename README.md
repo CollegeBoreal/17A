@@ -20,7 +20,7 @@
 | INF1018                                                        | Formation aux usagers                        |  (M.)                  |
 | INF1023                                                        | Réseaux locaux et à distance                 |  (RE)                  |
 | [INF1044](https://github.com/CollegeBoreal/INF1044-201-17A-02) | Logiciels de développement                   |  (CM)                  |
-| [INF1045](https://github.com/CollegeBoreal/INF1045-17A)        | Administration des serveurs                  |  (BR)                  |
+| [INF1045](https://github.com/CollegeBoreal/INF1045-201-17A-02) | Administration des serveurs                  |  (BR)                  |
 | INF1046                                                        | Développement d'applications multimédia      |  (CS)                  |
 | [INF1048](https://github.com/CollegeBoreal/INF1048-201-17A-02) | Programmation et scripts                     |  (BR)                  |
 
