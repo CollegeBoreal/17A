@@ -1,5 +1,12 @@
 # Automne 2017
 
+# Calendrier GINF
+![alt tag](https://github.com/CollegeBoreal/17A/blob/master/GINF17A.png)
+
+
+# Calendrier GINQ
+![alt tag](https://github.com/CollegeBoreal/17A/blob/master/GINQ17A.png)
+
 ## ÉTAPE 1
 
 |     Code	                                                     | Titre du cours                               | Commentaires           |
